@@ -1,0 +1,254 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 80%;
+}
+
+body {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+section>p::after {
+    content: " ";
+    width: 40px;
+    height: 3px;
+    position: absolute;
+    background-color: #0078ff;
+    top: 40px;
+    left: 48%;
+}
+
+.image {
+    width: 100%
+}
+
+.icns {
+    width: 2rem;
+    height: 2rem;
+}
+
+/*                       Home                                    */
+.home {
+    background-image: url(../images/intro-bg.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#home h1 {
+    font-size: 4.5rem;
+}
+
+#home .overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#home h2 {
+    font-size: 2.5rem;
+    position: relative;
+}
+
+#home h2::after {
+    content: "|";
+    animation-name: typing;
+    animation-duration: 15s;
+    animation-iteration-count: infinite;
+}
+
+/*                              About                               */
+.data {
+    background-color: f5f5f5;
+}
+
+#about .container {
+    color: #4e4e4e;
+}
+
+#about ul li {
+    list-style: none;
+}
+
+#About h2 {
+    position: relative;
+}
+
+#About h2::after {
+    content: " ";
+    width: 100px;
+    height: 3px;
+    position: absolute;
+    background-color: #0078ff;
+    top: 40px;
+    left: 0px;
+}
+
+/*                                services                          */
+
+
+
+.icon {
+    width: 4rem;
+    height: 4rem;
+    border: 10px solid #0078ff;
+    transition: all 1s;
+}
+
+#services .container .service:hover .icon {
+    background-color: #0078ff;
+    color: white;
+    border-color: #cde1f8;
+}
+
+#services .photo {
+    background-image: url(../images/counters-bg.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    position: relative;
+}
+
+#services .photo::before {
+    content: "";
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0.7;
+    background-color: #0078ff;
+}
+
+/*>>>>>>>>>>>>>>>>>>>>>>>>portfolio<<<<<<<<<<<<<<<<<<<*/
+
+#portfolio>p {
+    position: relative;
+}
+
+
+
+a {
+    text-decoration: none;
+}
+
+#portfolio .container .imag {
+    overflow: hidden;
+}
+
+#portfolio .container .card .imag img {
+    transition: transform 1s;
+}
+
+#portfolio .container .card:hover img {
+    transform: scale(1.1);
+}
+
+#portfolio .portfolio1 {
+    background-image: url(../images/overlay-bg.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: auto;
+    position: relative;
+}
+
+#portfolio .portfolio1::before {
+    content: "";
+    top: 0;
+    left: 0;
+    opacity: 0.7;
+    position: absolute;
+    background-color: #0078ff;
+    width: 100%;
+    height: 100%;
+}
+
+/*                          blog                    */
+#blog>p {
+    position: relative;
+}
+
+
+
+#blog button .button1 {
+    background-image: url(../images/testimonial-2.jpg);
+    background-position: center center;
+    background-size: cover;
+    width: 40px;
+    height: 40px;
+}
+
+/*                      contact                    */
+#contact .container {
+    padding: 10px;
+    overflow: hidden;
+}
+
+#contact .bground {
+    background-image: url(../images/overlay-bg.jpg);
+    height: auto;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+}
+
+#contact .bground::before {
+    content: "";
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0.7;
+    background-color: #0078ff;
+}
+
+#contact .container a button {
+    color: #f8f9fa;
+    border-color: #cde1f8;
+    transition: all 0.5s ease-in-out;
+}
+
+#contact .container a button:hover {
+    box-shadow: 0px 0px 0px 5px #cde1f8;
+}
+
+#contact h3 {
+    position: relative;
+    font-size: 25px;
+}
+
+#contact h3::after {
+    content: " ";
+    width: 80px;
+    height: 3px;
+    position: absolute;
+    background-color: #0078ff;
+    top: 80%;
+    left: 0px;
+}
+
+#contact .social-media .icns:hover {
+    background-color: #0078ff;
+    box-shadow: 0px 0px 0px 5px #cde1f8;
+}
+
+#contact .social-media .icns a i {
+    color: black;
+    transition: all 1s;
+}
+
+#contact .social-media .icns:hover a i {
+    color: #f8f9fa;
+}
+
+#contact .social-media .icns {
+    width: 2rem;
+    height: 2rem;
+    color: black;
+    transition: all 1s;
+}

@@ -1,0 +1,461 @@
+@keyframes typing {
+    0% {
+        content: "F|";
+    }
+
+    1% {
+        content: "Fr|";
+    }
+
+    2% {
+        content: "Fro|";
+    }
+
+    3% {
+        content: "Fron|";
+    }
+
+    4% {
+        content: "Front|";
+    }
+
+    5% {
+        content: "Fronte|";
+    }
+
+    6% {
+        content: "Fronten|";
+    }
+
+    7% {
+        content: "Frontend|";
+    }
+
+    8% {
+        content: "Frontend D|";
+    }
+
+    9% {
+        content: "Frontend De|";
+    }
+
+    10% {
+        content: "Frontend Dev|";
+    }
+
+    11% {
+        content: "Frontend Deve|";
+    }
+
+    12% {
+        content: "Frontend Devel|";
+    }
+
+    13% {
+        content: "Frontend Develo|";
+    }
+
+    14% {
+        content: "Frontend Develop|";
+    }
+
+    15% {
+        content: "Frontend Develope|";
+    }
+
+    16% {
+        content: "Frontend Developer|";
+    }
+
+    17% {
+        content: "Frontend Develope|";
+    }
+
+    18% {
+        content: "Frontend Develop|";
+    }
+
+    19% {
+        content: "Frontend Develo|";
+    }
+
+    20% {
+        content: "Frontend Devel|";
+    }
+
+    21% {
+        content: "Frontend Deve|";
+    }
+
+    22% {
+        content: "Frontend Dev|";
+    }
+
+    23% {
+        content: "Frontend De|";
+    }
+
+    24% {
+        content: "Frontend D|";
+    }
+
+    25% {
+        content: "Frontend|";
+    }
+
+    26% {
+        content: "Fronten|";
+    }
+
+    27% {
+        content: "Fronte|";
+    }
+
+    28% {
+        content: "Front|";
+    }
+
+    29% {
+        content: "Fron|";
+    }
+
+    30% {
+        content: "Fro|";
+    }
+
+    31% {
+        content: "Fr|";
+    }
+
+    32% {
+        content: "F|";
+    }
+
+    33% {
+        content: "G|";
+    }
+
+    34% {
+        content: "Gr|";
+    }
+
+    35% {
+        content: "Gra|";
+    }
+
+    36% {
+        content: "Grap|";
+    }
+
+    37% {
+        content: "Graph|";
+    }
+
+    38% {
+        content: "Graphi|";
+    }
+
+    39% {
+        content: "Graphic|";
+    }
+
+    40% {
+        content: "Graphic D|";
+    }
+
+    41% {
+        content: "Graphic De|";
+    }
+
+    42% {
+        content: "Graphic Des|";
+    }
+
+    43% {
+        content: "Graphic Desi|";
+    }
+
+    44% {
+        content: "Graphic Desig|";
+    }
+
+    45% {
+        content: "Graphic Design|";
+    }
+
+    46% {
+        content: "Graphic Designe|";
+    }
+
+    47% {
+        content: "Graphic Designer|";
+    }
+
+    48% {
+        content: "Graphic Designe|";
+    }
+
+    49% {
+        content: "Graphic Design|";
+    }
+
+    50% {
+        content: "Graphic Desig|";
+    }
+
+    51% {
+        content: "Graphic Desi|";
+    }
+
+    52% {
+        content: "Graphic Des|";
+    }
+
+    53% {
+        content: "Graphic De|";
+    }
+
+    54% {
+        content: "Graphic D|";
+    }
+
+    55% {
+        content: "Graphi|";
+    }
+
+    56% {
+        content: "Graph|";
+    }
+
+    57% {
+        content: "Grap|";
+    }
+
+    58% {
+        content: "Gra|";
+    }
+
+    59% {
+        content: "Gr|"; }
+
+    60% {
+        content: "Gr|";}
+
+    61% {
+        content: "G|";}
+
+    62% {
+        content: "C|";}
+
+    63% {
+        content: "Ce|";}
+
+    64% {
+        content: "Ceo|";
+    }
+
+    65% {
+        content: "Ceo D|";
+    }
+
+    66% {
+        content: "Ceo De|";
+    }
+
+    67% {
+        content: "Ceo Dev|";
+    }
+
+    68% {
+        content: "Ceo Devf|";
+    }
+
+    69% {
+        content: "Ceo Devfo|";
+    }
+
+    70% {
+        content: "Ceo Devfol|";
+    }
+
+    71% {
+        content: "Ceo Devfoli|";
+    }
+
+    72% {
+        content: "Ceo Devfolio|";
+    }
+
+    73% {
+        content: "Ceo Devfoli|";
+    }
+
+    74% {
+        content: "Ceo Devfol|";
+    }
+
+    75% {
+        content: "Ceo Devfo|";
+    }
+
+    76% {
+        content: "Ceo Devf|";
+    }
+
+    77% {
+        content: "Ceo Dev|";
+    }
+
+    78% {
+        content: "Ceo De|";
+    }
+
+    79% {
+        content: "Ceo D|";
+    }
+
+    80% {
+        content: "Ce|";
+    }
+
+    81% {
+        content: "C|";
+    }
+
+    82% {
+        content: "W|";
+    }
+
+    83% {
+        content: "We|";
+    }
+
+    84% {
+        content: "Web |";
+    }
+
+    85% {
+        content: "Web D|";
+    }
+
+    85.5% {
+        content: "Web De|";
+    }
+
+    86% {
+        content: "Web Dev|";
+    }
+
+    86.5% {
+        content: "Web Deve|";
+    }
+
+    87% {
+        content: "Web Devel|";
+    }
+
+    87.5% {
+        content: "Web Develo|";
+    }
+
+    88% {
+        content: "Web Develop|";
+    }
+
+    88.5% {
+        content: "Web Develope|";
+    }
+
+    89% {
+        content: "Web Developer|";
+    }
+
+    89.5% {
+        content: "Web Develope|";
+    }
+
+    90% {
+        content: "Web Develop|";
+    }
+
+    90.5% {
+        content: "Web Develo|";
+    }
+
+    91% {
+        content: "Web Devel|";
+    }
+
+    91.5% {
+        content: "Web Deve|";
+    }
+
+    92% {
+        content: "Web Dev|";
+    }
+
+    92.5% {
+        content: "Web De|";
+    }
+
+    93% {
+        content: "Web Des|";
+    }
+
+    93.5% {
+        content: "Web Desi|";
+    }
+
+    94% {
+        content: "Web Desig|";
+    }
+
+    94.5% {
+        content: "Web Design|";
+    }
+
+    95% {
+        content: "Web Designe|";
+    }
+
+    95.5% {
+        content: "Web Designer|";
+    }
+
+    96% {
+        content: "Web Designe|";
+    }
+
+    96.5% {
+        content: "Web Design|";
+    }
+
+    97% {
+        content: "Web Desig|";
+    }
+
+
+    97.5% {
+        content: "Web Desi|";
+    }
+
+    98% {
+        content: "Web De|";
+    }
+
+
+    98.5% {
+        content: "Web D|";
+    }
+
+    99% {
+        content: "Web|";
+    }
+
+    99.5% {
+        content: "We|";
+    }
+    100% {
+        content: "w|";
+    }
+}
